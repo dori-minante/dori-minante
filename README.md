@@ -4,7 +4,7 @@
 - 🔭 Sou estudante de Analise e desenvolvimento de sistemas na Faculdade Descomplica.
 - 😄 Pronouns: ela/dela
 
-Conecte-se comigo:
+### Conecte-se comigo:
 
   <a href="https://www.linkedin.com/in/dorivaniasm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dorim.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
