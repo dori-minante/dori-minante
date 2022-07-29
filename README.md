@@ -22,5 +22,5 @@
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">   
   </div>
 
-
+![Snake animation](https://github.com/dori-minante/dori-minante/blob/output/github-contribution-grid-snake.svg)
   
