@@ -1,4 +1,4 @@
-### Olá! Sou a Dorivania dos Santos 👋
+### Olá! Sou a Dorivania 👋
 
 - 📚 Atualmente estou aprendendo HTML5, CSS3, JavaScript e Java.
 - 💻 Sou estudante de Analise e desenvolvimento de sistemas na Faculdade Descomplica.
