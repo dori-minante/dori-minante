@@ -1,7 +1,7 @@
 ### Olá! Sou a Dorivania 👋
 
 - 📚 Atualmente estou aprendendo HTML5, CSS3, JavaScript e Java.
-- 💻 Sou estudante de Analise e desenvolvimento de sistemas na Faculdade Descomplica.
+- 💻 Sou estudante de Análise e Desenvolvimento de sistemas na Faculdade Descomplica.
 - 💡  Em busca de estágio na área de Tecnologia.
 - 😄 Pronomes: ela/dela
 
