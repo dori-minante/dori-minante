@@ -2,8 +2,8 @@
 
 - 📚 Atualmente estou aprendendo HTML5, CSS3, JavaScript e Java.
 - 💻 Sou estudante de Análise e Desenvolvimento de sistemas na Faculdade Descomplica.
-- 📝 Aluna do programa Oracle Next Education One.
-- 💡  Em busca de estágio na área de Tecnologia.
+- 📝 Aluna do programa Oracle Next Education One - Back End.
+- 💡 Em busca de estágio na área de Tecnologia.
 
 
 <h2>Conecte-se comigo</h2>
