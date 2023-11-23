@@ -1,7 +1,7 @@
 ### Olá! Sou a Dorivania 👋
 
 - 📚 Atualmente estou aprendendo HTML5, CSS3, JavaScript e Java.
-- 💻 Sou estudante de Análise e Desenvolvimento de sistemas na Faculdade Descomplica.
+- 💻 Estudante de Análise e Desenvolvimento de sistemas.
 - 📝 Aluna do programa Oracle Next Education One - Formação Back End T5.
 
 
