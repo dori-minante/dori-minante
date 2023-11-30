@@ -1,6 +1,6 @@
 ### Olá! Sou a Dorivania 👋
 
-- 📚 Atualmente estou aprendendo HTML5, CSS3, JavaScript e Java.
+- 📚 Atualmente aprendendo HTML5, CSS3, JavaScript, Java e Spring.
 - 💻 Estudante de Análise e Desenvolvimento de sistemas.
 - 📝 Aluna do programa Oracle Next Education One - Formação Back End T5.
 
