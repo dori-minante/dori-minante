@@ -1,4 +1,4 @@
-### Olá! Sou a Dorivania 👋
+### Olá! 👋
 
 - 📚 Atualmente aprendendo HTML, CSS, JavaScript, Java e Spring.
 - 💻 Estudante de Análise e Desenvolvimento de sistemas.
