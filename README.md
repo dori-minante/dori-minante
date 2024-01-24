@@ -2,7 +2,7 @@
 
 - 📚 Atualmente aprendendo HTML, CSS, JavaScript, Java e Spring.
 - 💻 Estudante de Análise e Desenvolvimento de sistemas.
-- 📝 Aluna do programa Oracle Next Education One - Formação Back End T5.
+
 
 
 <h2>Conecte-se comigo</h2>
