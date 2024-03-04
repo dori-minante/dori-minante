@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript e Java.
 - 💻 Estudante de Análise e Desenvolvimento de sistemas.
-- 😄 Pronomes: Ela/ Del
+- 😄 Pronomes: Ela/ Dela
 
 
 
