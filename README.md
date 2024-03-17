@@ -1,18 +1,23 @@
 ## 🚀 Sobre mim
 
-### 👋 Olá! 
+<span align="center">
+
+### 👋 Olá Mundo!
+
+</span>
+
+<div align="center">
+<img src="https://github.com/dori-minante/dori-minante/assets/99691142/381d33f7-24ae-4732-bb46-914d9fe35a91" width="700px" />
+</div>
 
 - 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript e Java.
 - 💻 Estudante de Análise e Desenvolvimento de sistemas.
 - 😄 Pronomes: Ela/ Dela
 
-
-
 <h2>Conecte-se comigo</h2>
 
   <a href="https://www.linkedin.com/in/dorivaniasm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-
 <div> 
   <h2>Tecnologias</h2>
 
