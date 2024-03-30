@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-- 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript e Java.
+- 🌱 Atualmente no Bootcamp para Desenvolvedor FullStack Java e React da Generation Brasil.
 - 💻 Estudante de Análise e Desenvolvimento de sistemas.
 - 😄 Pronomes: Ela/ Dela
 
