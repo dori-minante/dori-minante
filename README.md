@@ -5,7 +5,7 @@
 </span>
 
 <div align="center">
-<img src="https://github.com/dori-minante/dori-minante/assets/99691142/381d33f7-24ae-4732-bb46-914d9fe35a91" width="700px" />
+<img src="https://github.com/dori-minante/dori-minante/assets/99691142/381d33f7-24ae-4732-bb46-914d9fe35a91" width="500px" />
 </div>
 
 ## 🚀 Sobre mim
