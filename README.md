@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-- 🌱 Atualmente no Bootcamp para Desenvolvedor FullStack Java e React da Generation Brasil.
+- 🌱 Atualmente estudando Java.
 - 💻 Estudante de Análise e Desenvolvimento de sistemas.
 - 😄 Pronomes: Ela/ Dela
 
