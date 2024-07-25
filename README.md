@@ -11,7 +11,7 @@
 ## 🚀 Sobre mim
 
 - 🌱 Atualmente estudando Java.
-- 💻 Estudante de Análise e Desenvolvimento de sistemas.
+- 💻 Estudante de Ciência da Computação.
 - 😄 Pronomes: Ela/ Dela
 
 <h2>Conecte-se comigo</h2>
