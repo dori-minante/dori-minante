@@ -43,5 +43,6 @@
 
 
  [![card](https://github-readme-stats.vercel.app/api?username=dori-minante&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=dori-minante&hide=html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
   
