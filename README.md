@@ -41,6 +41,7 @@
   <img align="center"alt="intellij" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>    
  </div>
 
- [![card](https://github-readme-stats.vercel.app/api?username=dori-minante&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![card](https://github-readme-stats.vercel.app/api?username=dori-minante&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
   
