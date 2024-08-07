@@ -10,17 +10,16 @@
 
 ## 🚀 Sobre mim
 
-- 🌱 Atualmente estudando Java.
-- 💻 Estudante de Ciência da Computação.
-- 😄 Pronomes: Ela/ Dela
+- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudante de Ciência da Computação.
+- 🌱 Aprendendo mais sobre Java e Spring.
 
 <h2>Conecte-se comigo</h2>
 
   <a href="https://www.linkedin.com/in/dorivaniasm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-<div> 
-  ##Linguagens e ferramentas
 
+  ## Linguagens e ferramentas
+<div> 
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -46,4 +45,5 @@
  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=dori-minante&hide=html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
-  
+
+ 
