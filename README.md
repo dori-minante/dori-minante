@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=380B61&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:380B61,100:01DFD7&height=120&section=header"/>
 
 <span align="center">
 
@@ -46,6 +46,6 @@
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dori-minante&hide=html&layout=compact&theme=cobalt"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:380B61,100:ff9000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:380B61,100:01DFD7&height=120&section=footer"/>
 
  
