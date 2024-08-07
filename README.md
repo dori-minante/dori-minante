@@ -2,7 +2,7 @@
 
 <span align="center">
 
-### 👋 Olá, Mundo!
+### 👋 Hello, World!
 
 </span>
 
