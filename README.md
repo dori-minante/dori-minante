@@ -2,9 +2,10 @@
 
 <span align="center">
 
-### 👋 Hello, World!
+<H1> 👋 Hello, World! </H1>
 
 </span>
+<br>
 
 <div align="center">
 <img src="https://github.com/dori-minante/dori-minante/assets/99691142/381d33f7-24ae-4732-bb46-914d9fe35a91" width="500px" />
