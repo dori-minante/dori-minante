@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/>
+
 <span align="center">
 
 ### 👋 Olá, Mundo!
@@ -36,14 +38,14 @@
   <img align="center"alt="intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>  
   <img align="center"alt="eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>    
  </div>
-  <br>
+ 
 
 ## ⭐ GitHub Stats
-  <div align="center" style="display: inline_block">
-
+<div align="center" style="display: inline_block"> 
  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dori-minante&theme=cobalt&show_icons=true"/>
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dori-minante&hide=html&layout=compact&theme=cobalt"/>
+</div>
 
-  </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:ff9000&height=120&section=footer"/>
 
  
