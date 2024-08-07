@@ -14,11 +14,11 @@
 - 🎓 Estudante de Ciência da Computação.
 - 🌱 Aprendendo mais sobre Java e Spring.
 
-<h2>Conecte-se comigo</h2>
+## Conecte-se comigo
 
   <a href="https://www.linkedin.com/in/dorivaniasm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ## Linguagens e ferramentas
+## Linguagens e ferramentas
 <div> 
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
@@ -31,7 +31,7 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
     
-  <h2>IDE's</h2>
+  <h2> IDE's</h2>
   <img align="center"alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>  
   <img align="center"alt="intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>  
   <img align="center"alt="eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>    
@@ -41,8 +41,8 @@
 ## ⭐ GitHub Stats
   <div align="center" style="display: inline_block">
 
- [![card](https://github-readme-stats.vercel.app/api?username=dori-minante&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=dori-minante&hide=html&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dori-minante&theme=cobalt&show_icons=true"/>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dori-minante&hide=html&layout=compact&theme=cobalt"/>
 
   </div>
 
