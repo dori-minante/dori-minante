@@ -15,7 +15,7 @@
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudante de Ciência da Computação.
-- 🌱 Aprendendo mais sobre Java e Spring.
+- 🌱 Aprendendo sobre Java e Spring.
 
 ## Conecte-se comigo
 
