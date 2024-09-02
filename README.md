@@ -1,21 +1,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:380B61,100:01DFD7&height=120&section=header"/>
 
-<span align="center">
-
-<H1> 👋 Hello, World! </H1>
-
+<span align="center"> 
+  <H1> 👋 Hello, World! </H1>
 </span>
 <br>
 
 <div align="center">
-<img src="https://github.com/dori-minante/dori-minante/assets/99691142/381d33f7-24ae-4732-bb46-914d9fe35a91" width="500px" />
+  <img src="https://github.com/dori-minante/dori-minante/assets/99691142/381d33f7-24ae-4732-bb46-914d9fe35a91" width="500px" />
 </div>
 
 ## 🚀 Sobre mim
 
-- 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudante de Ciência da Computação.
-- 🌱 Aprendendo sobre Java e Spring.
+- 💻 Aspirante a Desenvolvedora Júnior | Apaixonada por Biologia e Tecnologia
+
+- 🎓 Estudante de Ciência da Computação | Formada no Bootcamp de Desenvolvedor Java/React FullStack da Generation Brasil
+
+- 🌱 Explorando novas tecnologias | Atualmente conhecendo Java e Spring
+
+- 🎮 Gamer nas horas vagas | Bióloga apaixonada por tecnologia
 
 ## Conecte-se comigo
 
@@ -36,7 +38,7 @@
   <img align="center"alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>  
   <img align="center"alt="intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>  
   <img align="center"alt="eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>    
- </div>
+</div>
  
 
 ## ⭐ GitHub Stats
