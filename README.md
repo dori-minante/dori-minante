@@ -15,9 +15,9 @@
 
 - 🎓 Estudante de Ciência da Computação | Formada no Bootcamp de Desenvolvedor Java/React FullStack da Generation Brasil
 
-- 🌱 Explorando novas tecnologias | Atualmente conhecendo Java e Spring
+- 🌱 Explorando novas tecnologias | Atualmente estudando Java e Spring
 
-- 🎮 Gamer nas horas vagas | Bióloga apaixonada por tecnologia
+- 🎮 Gamer nas horas vagas 
 
 ## Conecte-se comigo
 
