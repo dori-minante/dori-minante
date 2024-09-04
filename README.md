@@ -38,11 +38,11 @@
   <img align="center"alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>  
   <img align="center"alt="intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>  
   <img align="center"alt="eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>    
-</div>
- 
+</div> 
 
 ## ⭐ GitHub Stats
-<div align="center">
+<img src="./.github/workflows/lineBar.png" width="100%" height="5px"/>
+<div align="center">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dori-minante&theme=cobalt&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dori-minante&hide=html&layout=compact&theme=cobalt"/>
 </div>
