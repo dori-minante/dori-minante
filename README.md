@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:380B61,100:01DFD7&height=120&section=header"/>
+<img src="./.github/workflows/lineBar.png" width="100%" height="5px"/>
 
 <span align="center"> 
   <H1> 👋 Hello, World! </H1>
@@ -12,11 +13,11 @@
 ## 🚀 Sobre mim
 
 - 💻 Aspirante a Desenvolvedora Júnior | Apaixonada por Biologia e Tecnologia
-
+  
 - 🎓 Estudante de Ciência da Computação | Formada no Bootcamp de Desenvolvedor Java/React FullStack da Generation Brasil
-
+  
 - 🌱 Explorando novas tecnologias | Atualmente estudando Java e Spring
-
+  
 - 🎮 Gamer nas horas vagas 
 
 ## Conecte-se comigo
