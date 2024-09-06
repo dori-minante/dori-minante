@@ -2,7 +2,7 @@
 <img src="./.github/workflows/lineBar.png" width="100%" height="5px"/>
 
 <span align="center"> 
-  <H1> 👋 Hello, World! </H1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9👋+Hello,+World!" alt="Typing SVG">  
 </span>
 <br>
 
