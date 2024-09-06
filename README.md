@@ -2,12 +2,12 @@
 <img src="./.github/workflows/lineBar.png" width="100%" height="5px"/>
 
 <span align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9👋+Hello,+World!" alt="Typing SVG">  
+  <h1> 👋Hello, World! </h1>  
 </span>
 <br>
 
 <div align="center">
-  <img src="https://github.com/dori-minante/dori-minante/assets/99691142/381d33f7-24ae-4732-bb46-914d9fe35a91" width="500px" />
+  <img src="https://github.com/dori-minante/dori-minante/assets/99691142/381d33f7-24ae-4732-bb46-914d9fe35a91" width="500px"/>
 </div>
 
 ## 🚀 Sobre mim
