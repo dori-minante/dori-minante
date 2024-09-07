@@ -20,10 +20,6 @@
   
 - 🎮 Gamer nas horas vagas 
 
-## Conecte-se comigo
-
-  <a href="https://www.linkedin.com/in/dorivaniasm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 ## Linguagens e ferramentas
 <div> 
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
@@ -40,6 +36,10 @@
   <img align="center"alt="intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>  
   <img align="center"alt="eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>    
 </div> 
+
+## Conecte-se comigo
+
+  <a href="https://www.linkedin.com/in/dorivaniasm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## ⭐ GitHub Stats
 <img src="./.github/workflows/lineBar.png" width="100%" height="5px"/>
