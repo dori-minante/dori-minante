@@ -14,8 +14,7 @@
 
 - 💻 Aspirante a Desenvolvedora Júnior | Apaixonada por Biologia e Tecnologia
   
-- 🎓 Estudante de Ciência da Computação | Formada no Bootcamp de Desenvolvedor Java/React FullStack da Generation Brasil
-  
+- 🎓 Estudante de Ciência da Computação | Formada no Bootcamp de Desenvolvedor Java/React FullStack da Generation Brasil  
 - 🌱 Explorando novas tecnologias | Atualmente estudando Java e Spring
   
 - 🎮 Gamer nas horas vagas 
