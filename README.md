@@ -48,6 +48,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dori-minante&theme=cobalt&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dori-minante&hide=html&layout=compact&theme=cobalt"/>
 </div>
+
 <img src="./.github/workflows/lineBar.png" width="100%" height="5px"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:380B61,100:01DFD7&height=120&section=footer"/>
