@@ -1,11 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:380B61,100:01DFD7&height=120&section=header"/>
 <img src="./.github/workflows/lineBar.png" width="100%" height="5px"/>
-
-<span align="center"> 
-  <h1> 👋Hello, World! </h1>  
-</span>
 <br>
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=35&pause=1000&color=000000&width=435&lines=%F0%9F%91%8BHello%2C+World!" alt="Typing SVG" />
+  </a>
+</div>
+<br>
 <div align="center">
   <img src="https://github.com/dori-minante/dori-minante/assets/99691142/381d33f7-24ae-4732-bb46-914d9fe35a91" width="500px"/>
 </div>
